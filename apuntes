@@ -1,0 +1,12 @@
+react solo actializa los componentes que hayan camiado
+jsx extension de sintaxis
+
+npm startr: ejecuta react scrip start
+
+co para en el vdom y solo regresa los elementos que cambiaron
+
+un componente recibe props y retorna react eleents mediante jsx
+
+el state manipula la logica
+
+functional o statles components y class components
