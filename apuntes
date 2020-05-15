@@ -10,3 +10,5 @@ un componente recibe props y retorna react eleents mediante jsx
 el state manipula la logica
 
 functional o statles components y class components
+
+los props son elementos externos al componentes que nos ayudan a setear 
