@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 // Components
-// import Clock from './components/Clock/Clock'
+import Clock from './components/Clock/Clock'
 import Card from './components/Card/Card'
+import Counter from './components/Counter/Counter';
 
 const data = [
   {
@@ -86,8 +87,9 @@ export default class App extends Component {
           readTime='3 min read'
         /> */}
         {this._renderCards()}
-        {/* <Clock /> */}
+        <Clock/>
         {/* {items} */}
+        <Counter></Counter>
 
       </div>
     );

@@ -12,3 +12,13 @@ el state manipula la logica
 functional o statles components y class components
 
 los props son elementos externos al componentes que nos ayudan a setear 
+los props son de solo lectura
+
+es functional o statles component , es por que no tiene logica 
+solo le estas pasando infformacion
+
+el state se define en el metodo constructor de la clase
+
+// antes el componente como funcion no permitia el state por eso se usaban class component, no pueden heraedar ni tener estados
+
+
